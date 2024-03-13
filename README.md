@@ -2,6 +2,6 @@
    create env
    npm run dev
 
-2. cd frontend
+2. cd backend
    create env
    npm run dev
